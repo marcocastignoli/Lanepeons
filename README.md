@@ -20,6 +20,8 @@ Luckily enough, the champion data form the api contains information that is grea
 
 To make this available to as many people as possible, Unity game engine was used alongside the WebGL deployment option. This enables the game to run in a browser environment. Furthermore, the SocketIO library was used to enable realtime multiplayer straight in your browser. This repo is for the client side of the application. The server, written for node.js is quite simple and only acts as a relay between the players.
 
+Pippo
+
 ## Installation
 
 This is a Unity 5.3.3f1 project.
@@ -54,3 +56,4 @@ Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 Lanepeons isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing League of Legends. League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, Inc.
 
 Pluto
+Pippo
